@@ -15,6 +15,7 @@ document.querySelector("#bell-icon").onclick = () => {
    bell.classList.toggle('active');
 }
 
+
 //slider
 const sliderContainer = document.querySelector('.slider-container');
 const sliderTrack = document.querySelector('.slider-track');
